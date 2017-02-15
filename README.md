@@ -1,9 +1,9 @@
 # PythonStuff
 
-* _Problem1.py_ This program claculates minimum fixed monthly amount to pay over the year against credit card balance. Rounds off to nearest cent.
-* _ps3_hangman.py_ Hangman game in python
-* _ClosetPower.py_ Calculate integer exponent such that base**exponent is closest to num
-* _DeepReverse.py_ Deep reverse a list
-* _Dict_intersect.py_ Returns a tuple containing intersection and difference between two dictionaries with integer key & value.
-* _Filter.py_ Filter a list based on simple functions
-* _Flatten.py_ Returns a flattened list
+* __Problem1.py__ This program claculates minimum fixed monthly amount to pay over the year against credit card balance. Rounds off to nearest cent.
+* __ps3_hangman.py__ Hangman game in python
+* __ClosetPower.py__ Calculate integer exponent such that base**exponent is closest to num
+* __DeepReverse.py__ Deep reverse a list
+* __Dict_intersect.py__ Returns a tuple containing intersection and difference between two dictionaries with integer key & value.
+* __Filter.py__ Filter a list based on simple functions
+* __Flatten.py__ Returns a flattened list
