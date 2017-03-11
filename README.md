@@ -7,3 +7,4 @@
 * __Dict_intersect.py__ Returns a tuple containing intersection and difference between two dictionaries with integer key & value.
 * __Filter.py__ Filter a list based on simple functions
 * __Flatten.py__ Returns a flattened list
+* __Mandarin.py__ Converts two digit numbers to their mandarin equivalent.
